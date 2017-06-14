@@ -1,3 +1,3 @@
 # hello-letters
-Say hi to your letters
-Hi!
+
+Simply drag and drop font files and get a customised font specimen in return.
